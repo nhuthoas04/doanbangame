@@ -1,5 +1,5 @@
-# csn-da22tta-nguyennhuthoa-gamepad_web-django
-# Django game-pad
+# CSN-DA22TTA-NguyenNhutHoa-GamePad_Web-Django
+# Django Game-Pad
 Ứng dụng web bán game được xây dựng bằng Django 5, MySQL và Bootstrap 5.
 
 Ứng dụng này cũng sử dụng một số gói bổ sung như:
