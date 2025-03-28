@@ -83,7 +83,7 @@ Chạy lệnh:
 python manage.py runserver  
 
 
-7️⃣ Truy cập ứng dụng
+7️⃣ Truy cập
 
 Ứng dụng chính: Truy cập http://localhost:8000/
 Module quản trị: Truy cập http://localhost:8000/admin và đăng nhập bằng tài khoản quản trị vừa tạo.
