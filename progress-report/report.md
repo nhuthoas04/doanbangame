@@ -1,7 +1,7 @@
 # Tiến Độ Dự Án
 Báo Cáo Tiến Độ Công Việc – Dự Án Website Bán Game
 Mô Tả Dự Án
-Dự án này nhằm phát triển một hệ thống bán game trực tuyến, nơi người dùng có thể xem và thêm sản phẩmm vào giỏ hàng. Người quản trị có thể quản lý sản phẩm và các chức năng hệ thống.
+Dự án này nhằm phát triển một hệ thống bán game trực tuyến, nơi người dùng có thể xem và thêm sản phẩm vào giỏ hàng. Người quản trị có thể quản lý sản phẩm và các chức năng hệ thống.
 
 Tiến Độ Công Việc
 1. Giai Đoạn Khởi Tạo Dự Án (Hoàn Thành)
