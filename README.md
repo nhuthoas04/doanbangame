@@ -17,7 +17,7 @@ dj-database-url
 Trong ứng dụng này, quản trị viên có thể quản lý sản phẩm và đơn hàng, trong khi khách hàng có thể đăng ký tài khoản, thêm sản phẩm vào giỏ hàng,...
 
 
-# 🚀 Cách chạy chương trình
+# Cách chạy chương trình
 
 1️⃣ Cài đặt môi trường
 
