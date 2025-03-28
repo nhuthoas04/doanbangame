@@ -1,22 +1,4 @@
 # CSN-DA22TTA-NguyenNhutHoa-GamePad_Web-Django
-# Django Game-Pad
-Ứng dụng web bán game được xây dựng bằng Django 5, MySQL và Bootstrap 5.
-
-Ứng dụng này cũng sử dụng một số gói bổ sung như:
-
-django-crispy-forms
-
-django-filter
-
-pillow
-
-easy-thumbnails
-
-dj-database-url
-
-Trong ứng dụng này, quản trị viên có thể quản lý sản phẩm và đơn hàng, trong khi khách hàng có thể đăng ký tài khoản, thêm sản phẩm vào giỏ hàng,...
-
-
 # Cách chạy chương trình
 
 1️⃣ Cài đặt môi trường
