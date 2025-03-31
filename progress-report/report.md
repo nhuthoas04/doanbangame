@@ -16,7 +16,7 @@ Thiết kế giao diện người dùng (UI) cho trang sản phẩm, giỏ hàng
 3. Giai Đoạn Phát Triển
 Hoàn Thành:
 Xây dựng các chức năng cơ bản: xem sản phẩm, thêm sản phẩm vào giỏ hàng, xem giỏ hàng.
-Phát triển trang quản lý sách cho người quản trị.
+Phát triển trang quản lý sản phẩm cho người quản trị.
 Cấu hình hệ thống phân quyền người dùng (người dùng và quản trị viên).
 Công việc Tiếp Theo:
 Xây dựng chức năng quản lý đơn hàng (nếu có).
