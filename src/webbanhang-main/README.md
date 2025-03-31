@@ -1,14 +1,5 @@
 # Django game-pad
 
-An website gamepad app made using django 5, mysql and bootstrap 5.
-This app also uses several other packages like -
-
-- django-crispy-forms
-- django-filter
-- pillow
-- easy-thumbnails
-- dj-database-url
-
 In this app admin can manage products and orders and a customer can simply register, add items to cart...
 
 To run this app on your local machine you can simply follow the instructions given below.
