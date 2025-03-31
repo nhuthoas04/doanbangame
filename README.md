@@ -77,14 +77,14 @@ Module quản trị: Truy cập http://localhost:8000/admin và đăng nhập b�
 
 
 
-# 📞 Liên hệ
+#  Liên hệ
 
-👤 Nguyễn Nhựt Hóa
+ Nguyễn Nhựt Hóa
 
-📧 Email: nhuthoas04@gmail.com
+ Email: nhuthoas04@gmail.com
   
-📞 Số diện thoại: 0912534571
+ Số diện thoại: 0912534571
 
-📚 Trường Đại học Trà Vinh
+ Trường Đại học Trà Vinh
 
 
